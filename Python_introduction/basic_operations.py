@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 number1 = 10
 number2 = 5
 
@@ -14,4 +12,3 @@ print("Multiplication of", number1, "and", number2, "is", multiplication)
 Addition of 10 and 5 is 15
 Subtraction of 10 and 5 is 5
 Multiplication of 10 and 5 is 50
->>>>>>> 96066ea7c1ff0c0fd053061aa3d387ac59cbb9e5
