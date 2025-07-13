@@ -1,4 +1,4 @@
 hours = 2
 seconds = 7200
 
-print( hours, " hours is", seconds, "seconds")
+print( hour, " hour(s) is", seconds, "seconds")
