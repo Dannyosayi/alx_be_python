@@ -8,9 +8,10 @@ def perform_operation(num1, num2, operation):
             return result
         case "divide":
             if num2 == 0:
-                return "Error: Cannot divide by zero"
-            else: 
-                result = num1 / num2
+                print("Error: Cannot divide by zero")
+            elif num2 != 0:
+                return num1 / num2
+
             return result
         case "add":
             result = num1 + num2
