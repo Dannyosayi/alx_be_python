@@ -11,6 +11,8 @@ def perform_operation(num1, num2, operation):
                 print("Error: Cannot divide by zero")
             elif num2 != 0:
                 return num1 / num2
+            else: 
+                return "division not possible."
 
             return result
         case "add":
