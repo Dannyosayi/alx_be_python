@@ -1,5 +1,5 @@
 def display_menu():
-    print("f'\nShopping List Manager")
+    print("Shopping List Manager")  # Required exact string
     print("1. Add Item")
     print("2. Remove Item")
     print("3. View List")
